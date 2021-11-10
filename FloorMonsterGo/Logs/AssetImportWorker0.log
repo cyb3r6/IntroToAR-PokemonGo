@@ -1,0 +1,625 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 49069 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/Unity/GitHub/CS/IntroToAR-PokemonGo/FloorMonsterGo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59604
+Successfully changed project path to: G:/Unity/GitHub/CS/IntroToAR-PokemonGo/FloorMonsterGo
+G:/Unity/GitHub/CS/IntroToAR-PokemonGo/FloorMonsterGo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/Unity/GitHub/CS/IntroToAR-PokemonGo/FloorMonsterGo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2486)
+    Vendor:   
+    VRAM:     8050 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005817 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.379 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001252 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1460 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.3 MB.
+System memory in use after: 67.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 1.679600 ms (FindLiveObjects: 0.142300 ms CreateObjectMapping: 0.040700 ms MarkObjects: 1.362200 ms  DeleteObjects: 0.133100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ARPokemonGoAssets/Monster/Monster_Hunter_M.mat
+  artifactKey: Guid(f578e6e61bcb23a49a923db1b282b281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Monster/Monster_Hunter_M.mat using Guid(f578e6e61bcb23a49a923db1b282b281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db7db26cb9ee655de3f9a3b25064151') in 0.113397 seconds
+  Import took 0.115702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ARPokemonGoAssets/Monster/Shadow.mat
+  artifactKey: Guid(1b402bfe597f1174fbd6fb39368c4b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Monster/Shadow.mat using Guid(1b402bfe597f1174fbd6fb39368c4b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e71da4c8a829bf07589252e29ffd82d') in 0.012656 seconds
+  Import took 0.014949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/PokeBall.prefab
+  artifactKey: Guid(0d41fe58ea4ae804199985ecb27195ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/PokeBall.prefab using Guid(0d41fe58ea4ae804199985ecb27195ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c62f28ab0f997ccdc846af17f0c1144d') in 0.028439 seconds
+  Import took 0.030874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/Material.mat
+  artifactKey: Guid(4a16edc811e08dc47916e6a1ebe24085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/Material.mat using Guid(4a16edc811e08dc47916e6a1ebe24085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2629083920a8e5306170ecdcf5ef3ecf') in 0.048043 seconds
+  Import took 0.050438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/ARPokemonGoAssets/Monster/Monster Hunter.fbx
+  artifactKey: Guid(7444217a75d75c842ab1de84042d17f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Monster/Monster Hunter.fbx using Guid(7444217a75d75c842ab1de84042d17f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d01cab9fb2a3a2ee4403e5f0081158f') in 0.306896 seconds
+  Import took 0.309326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/Material.002.mat
+  artifactKey: Guid(9d39e2aefecb2b14191062a4984f7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/Material.002.mat using Guid(9d39e2aefecb2b14191062a4984f7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e7ae70d593785848b2ee83b29c974e') in 0.009216 seconds
+  Import took 0.011598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/poke.mat
+  artifactKey: Guid(b259a52568a75d54795e960220278b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/poke.mat using Guid(b259a52568a75d54795e960220278b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6def874c6e9c45dc843cb2ac73a023df') in 0.019762 seconds
+  Import took 0.022098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/poke.jpg
+  artifactKey: Guid(3da301ab6ab2d06449923c7c154cd8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/poke.jpg using Guid(3da301ab6ab2d06449923c7c154cd8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8318ee579855ce391c6909bb81b1c7ad') in 0.057141 seconds
+  Import took 0.059466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/Monster.prefab
+  artifactKey: Guid(72c4dbe55d327c34e8cf13eaa39e661d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/Monster.prefab using Guid(72c4dbe55d327c34e8cf13eaa39e661d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed78c90fe62522c4919b399b41da53e4') in 0.017271 seconds
+  Import took 0.020247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002775 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/Material.001.mat
+  artifactKey: Guid(ccfd146fd0a21d74784cb4a41957bbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/Material.001.mat using Guid(ccfd146fd0a21d74784cb4a41957bbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1960a80e9aa3b12b97acd68bf8f1ea37') in 0.016787 seconds
+  Import took 0.019647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/pokeball.blend
+  artifactKey: Guid(7dd71e6851461544286ae72662d4e999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/pokeball.blend using Guid(7dd71e6851461544286ae72662d4e999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f9a546f825f8e439f98075fa30e7aa') in 0.047842 seconds
+  Import took 0.050199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/ARPokemonGoAssets/Monster/Texture Monster Hunter.png
+  artifactKey: Guid(e40ca2a7c1f9138409914c02accd1e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Monster/Texture Monster Hunter.png using Guid(e40ca2a7c1f9138409914c02accd1e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '742fa7a1db419b7a48cce76f0e2db1d9') in 0.012338 seconds
+  Import took 0.014539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.980036 seconds.
+  path: Packages/com.unity.xr.arfoundation/Materials/DebugFace.mat
+  artifactKey: Guid(35bd980c8f2234e3d8b640e25a677d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Materials/DebugFace.mat using Guid(35bd980c8f2234e3d8b640e25a677d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b775d5240a537cadaa102879a9b59061') in 0.089430 seconds
+  Import took 0.092448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Packages/com.unity.xr.arfoundation/Materials/DebugPlane.mat
+  artifactKey: Guid(f1a110d32af21aa4d872c707dfcc6043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Materials/DebugPlane.mat using Guid(f1a110d32af21aa4d872c707dfcc6043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '867c37191734b83677301b6e336cd9ff') in 0.244445 seconds
+  Import took 0.246555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.589933 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/PokeBall.prefab
+  artifactKey: Guid(0d41fe58ea4ae804199985ecb27195ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/PokeBall.prefab using Guid(0d41fe58ea4ae804199985ecb27195ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb8d387f5d546140cdefea1e0131c287') in 0.009924 seconds
+  Import took 0.012434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015337 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/PokeBall.prefab
+  artifactKey: Guid(0d41fe58ea4ae804199985ecb27195ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/PokeBall.prefab using Guid(0d41fe58ea4ae804199985ecb27195ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb8d387f5d546140cdefea1e0131c287') in 0.032980 seconds
+  Import took 0.035921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.597012 seconds.
+  path: Assets/ARPokemonGoAssets/Monster/Monster_Hunter_M.mat
+  artifactKey: Guid(f578e6e61bcb23a49a923db1b282b281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Monster/Monster_Hunter_M.mat using Guid(f578e6e61bcb23a49a923db1b282b281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3693ddb3836c02dcd6eb1f5f12a04431') in 0.014821 seconds
+  Import took 0.017975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/ARPokemonGoAssets/Monster/Shadow.mat
+  artifactKey: Guid(1b402bfe597f1174fbd6fb39368c4b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Monster/Shadow.mat using Guid(1b402bfe597f1174fbd6fb39368c4b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f40a5e95a5394d1c85370049ed954b') in 0.020373 seconds
+  Import took 0.023529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.878001 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/Monster.prefab
+  artifactKey: Guid(72c4dbe55d327c34e8cf13eaa39e661d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/Monster.prefab using Guid(72c4dbe55d327c34e8cf13eaa39e661d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4254dcfd66f339cb9bb7edeb04029263') in 0.041085 seconds
+  Import took 0.044052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.015022 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.637073 seconds
+  Import took 0.640204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.724235 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(96f3b4c0636a377419c36bc0b961783e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(96f3b4c0636a377419c36bc0b961783e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a8d3025d37140f4882872fc684abbc') in 0.005100 seconds
+  Import took 0.007554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.496677 seconds.
+  path: Assets/Scripts/MonsterGenerator.cs
+  artifactKey: Guid(d1364e0495223914c9e96c9b45539082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MonsterGenerator.cs using Guid(d1364e0495223914c9e96c9b45539082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd44cc433953722a1b8b22a813ca03e') in 0.018219 seconds
+  Import took 0.020438 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.901 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.7 MB.
+System memory in use after: 70.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1953.
+Total: 2.023700 ms (FindLiveObjects: 0.292200 ms CreateObjectMapping: 0.055000 ms MarkObjects: 1.617100 ms  DeleteObjects: 0.057900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000647 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.948 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.7 MB.
+System memory in use after: 70.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1957.
+Total: 2.353300 ms (FindLiveObjects: 0.189400 ms CreateObjectMapping: 0.052900 ms MarkObjects: 2.034600 ms  DeleteObjects: 0.074700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 449.919566 seconds.
+  path: Assets/Scripts/MonsterGenerator.cs
+  artifactKey: Guid(d1364e0495223914c9e96c9b45539082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MonsterGenerator.cs using Guid(d1364e0495223914c9e96c9b45539082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf27d1fa09057f2615855afdd2e7c30b') in 0.011233 seconds
+  Import took 0.015043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.250789 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(e1e8a1f6174ffc04488b8f662d1c2d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(e1e8a1f6174ffc04488b8f662d1c2d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa74b73bc28b4f3bf0bbe0c25891f6e7') in 0.010128 seconds
+  Import took 0.012859 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000795 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.853 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1453 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1962.
+Total: 2.002800 ms (FindLiveObjects: 0.175600 ms CreateObjectMapping: 0.073200 ms MarkObjects: 1.686300 ms  DeleteObjects: 0.066300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000666 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1453 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1966.
+Total: 2.497200 ms (FindLiveObjects: 0.236400 ms CreateObjectMapping: 0.075900 ms MarkObjects: 2.119300 ms  DeleteObjects: 0.063800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1091.719961 seconds.
+  path: Assets/Scripts/Ball.cs
+  artifactKey: Guid(95a490bcc710389438393550c9575d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ball.cs using Guid(95a490bcc710389438393550c9575d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f19f3f1d6ba5c8a29d153eaedb8f788') in 0.035122 seconds
+  Import took 0.038318 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000711 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.935 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1971.
+Total: 2.079500 ms (FindLiveObjects: 0.177400 ms CreateObjectMapping: 0.052300 ms MarkObjects: 1.783700 ms  DeleteObjects: 0.064700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000873 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.863 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1975.
+Total: 2.401500 ms (FindLiveObjects: 0.207600 ms CreateObjectMapping: 0.064400 ms MarkObjects: 2.009300 ms  DeleteObjects: 0.118700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.912597 seconds.
+  path: Assets/Scripts/Ball.cs
+  artifactKey: Guid(95a490bcc710389438393550c9575d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ball.cs using Guid(95a490bcc710389438393550c9575d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1100c115629e45ca4da6bff403851e') in 0.016850 seconds
+  Import took 0.019624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.279796 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/PokeBall.prefab
+  artifactKey: Guid(0d41fe58ea4ae804199985ecb27195ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/PokeBall.prefab using Guid(0d41fe58ea4ae804199985ecb27195ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeed4d9f174ef5486ea81d8d8a38e1f8') in 0.064452 seconds
+  Import took 0.067733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.175677 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/Monster.prefab
+  artifactKey: Guid(72c4dbe55d327c34e8cf13eaa39e661d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/Monster.prefab using Guid(72c4dbe55d327c34e8cf13eaa39e661d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e874c2c7bc29203fcfc4b7b84fba1ea2') in 0.033088 seconds
+  Import took 0.036511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.956642 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/Monster.prefab
+  artifactKey: Guid(72c4dbe55d327c34e8cf13eaa39e661d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/Monster.prefab using Guid(72c4dbe55d327c34e8cf13eaa39e661d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3746eba08514501e9beee3a4f1c65f') in 0.039571 seconds
+  Import took 0.043371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.984266 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs
+  artifactKey: Guid(3fdc53f511698524da4542d75aba2c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs using Guid(3fdc53f511698524da4542d75aba2c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd52237c1a11fb5364387856d655729b') in 0.016735 seconds
+  Import took 0.019048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.650175 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab using Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c253752c4b0158233783df91c254a0fb') in 0.008861 seconds
+  Import took 0.012043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001005 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab using Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c253752c4b0158233783df91c254a0fb') in 0.014096 seconds
+  Import took 0.016830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.062866 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/Material.mat
+  artifactKey: Guid(4a16edc811e08dc47916e6a1ebe24085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/Material.mat using Guid(4a16edc811e08dc47916e6a1ebe24085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8104c7804c7abfd6a5a27b5de591e61d') in 0.029974 seconds
+  Import took 0.032782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/Material.002.mat
+  artifactKey: Guid(9d39e2aefecb2b14191062a4984f7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/Material.002.mat using Guid(9d39e2aefecb2b14191062a4984f7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41fadbd61859b3b2717f1d439607f416') in 0.064316 seconds
+  Import took 0.070633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/Material.mat
+  artifactKey: Guid(4a16edc811e08dc47916e6a1ebe24085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/Material.mat using Guid(4a16edc811e08dc47916e6a1ebe24085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8104c7804c7abfd6a5a27b5de591e61d') in 0.038939 seconds
+  Import took 0.041324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/poke.mat
+  artifactKey: Guid(b259a52568a75d54795e960220278b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/poke.mat using Guid(b259a52568a75d54795e960220278b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2de6b32f541f86f3fe9f77c49c1df2') in 0.016075 seconds
+  Import took 0.018504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/ARPokemonGoAssets/Ball/Material.001.mat
+  artifactKey: Guid(ccfd146fd0a21d74784cb4a41957bbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Ball/Material.001.mat using Guid(ccfd146fd0a21d74784cb4a41957bbe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15d6dd4c5dde384b825525aa2d1da93') in 0.015537 seconds
+  Import took 0.018877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.809664 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab using Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683e2d8c30e16cd88e243766927523f3') in 0.005790 seconds
+  Import took 0.008301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017051 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab using Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683e2d8c30e16cd88e243766927523f3') in 0.068992 seconds
+  Import took 0.072122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.723487 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab using Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30327a7f1cf3924c602826d7cdcab71e') in 0.005856 seconds
+  Import took 0.012046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055336 seconds.
+  path: Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARPokemonGoAssets/Prefabs/ARPlane.prefab using Guid(0911c493256634a4db6536250097c2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30327a7f1cf3924c602826d7cdcab71e') in 0.005555 seconds
+  Import took 0.010582 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.9 MB.
+System memory in use after: 44.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1976.
+Total: 7.186300 ms (FindLiveObjects: 0.432600 ms CreateObjectMapping: 0.109800 ms MarkObjects: 6.560500 ms  DeleteObjects: 0.080800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000678 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.922 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1458 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.9 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 1.910800 ms (FindLiveObjects: 0.197700 ms CreateObjectMapping: 0.049200 ms MarkObjects: 1.595100 ms  DeleteObjects: 0.067500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  buildTarget: platform 13, subtarget 524288, extendedPlatform 0 -> platform 13, subtarget 537395200, extendedPlatform 0
+  graphicsApiMask: 2048 -> 2099200
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Switching build target platform(13) subTarget(537395200) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.8 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 1.889100 ms (FindLiveObjects: 0.250000 ms CreateObjectMapping: 0.058400 ms MarkObjects: 1.523100 ms  DeleteObjects: 0.056700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  buildTarget: platform 13, subtarget 524288, extendedPlatform 0 -> platform 13, subtarget 537395200, extendedPlatform 0
+  graphicsApiMask: 2048 -> 2099200
+========================================================================
+Received Prepare
+Switching build target platform(13) subTarget(537395200) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.8 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 3.076900 ms (FindLiveObjects: 0.619400 ms CreateObjectMapping: 0.059800 ms MarkObjects: 2.332300 ms  DeleteObjects: 0.064000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  buildTarget: platform 13, subtarget 524288, extendedPlatform 0 -> platform 13, subtarget 537395200, extendedPlatform 0
+  graphicsApiMask: 2048 -> 2099200
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.8 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 2.203700 ms (FindLiveObjects: 0.170000 ms CreateObjectMapping: 0.051600 ms MarkObjects: 1.916900 ms  DeleteObjects: 0.064000 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.8 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 3.865000 ms (FindLiveObjects: 0.854400 ms CreateObjectMapping: 0.217100 ms MarkObjects: 2.735400 ms  DeleteObjects: 0.056500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.8 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1981.
+Total: 6.376200 ms (FindLiveObjects: 1.464300 ms CreateObjectMapping: 0.115100 ms MarkObjects: 4.745600 ms  DeleteObjects: 0.049400 ms)
+
